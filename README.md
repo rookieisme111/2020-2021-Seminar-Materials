@@ -19,4 +19,4 @@
 | 2020.5.15 |Neural Network-based Question Answering over Knowledge Graphs on Word and Character Level|知识库上的问答系统可以将自然语言问题转化为一个结构化查询语句（如SPARQL），从而快速检索知识库中知识并返回正确的答案。如何处理词汇缺项、一词多义等问题是构建基于知识库的问答系统的难点。本文提出一种用于回答简单问题的端到端的方法，利用字符和单词级别的词向量表示来解决知识库问答问题。 |Gao Yifei| [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20200515) |
 | 2020.5.8 |AutoAugment:Learning Augmentation Strategies from Data|这篇论文针对特定数据集适用特定数据增强方法的低可迁移性问题，将寻找最佳增强策略的问题形式化为离散搜索方法，创建搜索空间再利用搜索算法来自动搜索合适的数据增强策略。 |Zhu Huijing| [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20200508) |
 | 2020.4.24 |知识图谱研究进展/知识图谱构建技术综述 | 这两篇论文主要是介绍了知识图谱领域相关发展方向和相关技术的进展。 |Tang JiaWei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20200424) |
-
+| 2020.4.17 |知识图谱技术综述/知识图谱构建技术综述 | 两篇综述详细介绍了知识图谱领域的相关知识,包含了知识图谱的定义、构建技术和未来挑战等一系列重要问题。|Zhao XiaoHan | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20200417) |
