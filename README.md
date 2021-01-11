@@ -2,6 +2,7 @@
 ##2020年-2021年讨论班ppt与论文
 | Date | Title | Detail | Author | link |
 | ------------- |:-------------:| -----|-----:|-----:|
+| 2021.1.8 |FewRel 2.0: Towards More Challenging Few-Shot Relation Classification | 要将小样本学习模型应用到生产环境中，应具备从资源丰富领域迁移到资源匮乏领域的能力；小样本学习模型应当具备检测句子是否真的在表达某种预定义关系或者没有表达任何关系的能力。 |Gao Yifei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210108) |
 | 2020.12.4 |Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification | 本文基于混合注意力机制的原型网络来解决小样本关系分类中的噪声问题，提出了instance-level attention和feature-level attention。 |Gao Yifei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20201204) |
 | 2020.11.27 |SSD: Single Shot MultiBox Detector | 这篇论文提出了单阶段目标检测算法SSD（Single Shot MultiBox Detector），基于将detection转化为regression的思路，可以一次完成目标定位与分类。该算法修改了传统的VGG16网络：将VGG16的FC6和FC7层转化为卷积层；去掉所有的Dropout层和FC8层；添加了Atrous算法，将Pool5从2x2-S2变换到3x3-S1，同时加入基于特征金字塔的检测方式，即在不同感受野的feature map上预测目标。 |Tang JiaWei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20201127) |
 | 2020.11.20 |CNN-RNN: A Unified Framework for Multi-label Image Classification | 这篇论文提出了首个多标签分类的端到端的模型CNN-RNN，全过程由深度学习模型直接学习从原始数据到期望输出的映射(无需人工干预)，基本思路是先用CNN获取图像的空间信息，然后再借助LSTM去构建图像-标签关系以及标签之间的依赖关系。 |Zhu HuiJing | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20201120) |
