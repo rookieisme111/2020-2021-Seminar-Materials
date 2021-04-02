@@ -2,6 +2,7 @@
 ##2020年-2021年讨论班ppt与论文
 | Date | Title | Detail | Author | link |
 | ------------- |:-------------:| -----|-----:|-----:|
+| 2021.1.29 |Deep Neural Solver for Math Word Problems| 本文提出了一种深度神经求解器来自动求解数学应用题，并进一步设计了一个混合模型，它结合了RNN模型和基于相似性的检索模型，以实现额外的性能改进。|Chen ziqi|(https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210129)|
 | 2021.1.8 |FewRel 2.0: Towards More Challenging Few-Shot Relation Classification | 要将小样本学习模型应用到生产环境中，应具备从资源丰富领域迁移到资源匮乏领域的能力；小样本学习模型应当具备检测句子是否真的在表达某种预定义关系或者没有表达任何关系的能力。 |Gao Yifei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210108) |
 | 2020.12.11 |Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions| 这篇论文通过引入包内和包间注意力机制来应对噪声包的特殊情况。对于包内的句子是对所有的句子进行加权求和得到包表示；对于包与包之间，提出了一种包组（Bag Group）的概念，将具有相同关系标签的包组在一起，为每个包学习一个注意力权重，并进行加权求和形成包组向量。实验证明包间注意力可以合理分配组内所有包的注意力权重来缓解噪声包的问题，并且包内注意力拥有全关系种类的感知能力，比同为包内部注意力机制的句子级选择注意力性能更为强大。|Zhao XiaoHan | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20201211) |
 | 2020.12.4 |Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification | 本文基于混合注意力机制的原型网络来解决小样本关系分类中的噪声问题，提出了instance-level attention和feature-level attention。 |Gao Yifei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20201204) |
