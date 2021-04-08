@@ -2,6 +2,7 @@
 ##2020年-2021年讨论班ppt与论文
 | Date | Title | Detail | Author | link |
 | ------------- |:-------------:| -----|-----:|-----:|
+| 2021.4.2 |Enriching Pre-trained Language Model with Entity Information for Relation Classification|实验证明，预训练语言模型对自然语言处理任务的改进效果卓著。其中，BERT模型已经应用于多个自然语言处理任务并在11个任务中取得了最先进的水平!因此，本文采用此模型展开实验。!|Gao yifei|[ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210319)|
 | 2021.3.19 |Translating a Math Word Problem to an Expression Tree|在本文中，考虑表达式树的唯一性，提出了一种等式规范化方法来规范化复制的等式。还分析了三种流行的SEQ2SEQ模型在数学应用题解决上的表现,提出了一种集成模型来结合它们的优点。|Chen ziqi|[ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210319)|
 | 2021.1.29 |Deep Neural Solver for Math Word Problems| 本文提出了一种深度神经求解器来自动求解数学应用题，并进一步设计了一个混合模型，它结合了RNN模型和基于相似性的检索模型，以实现额外的性能改进。|Chen ziqi|([ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210129)|
 | 2021.1.8 |FewRel 2.0: Towards More Challenging Few-Shot Relation Classification | 要将小样本学习模型应用到生产环境中，应具备从资源丰富领域迁移到资源匮乏领域的能力；小样本学习模型应当具备检测句子是否真的在表达某种预定义关系或者没有表达任何关系的能力。 |Gao Yifei | [ppt](https://github.com/Tbb-nj/2020-2021-Seminar-Materials/tree/main/20210108) |
